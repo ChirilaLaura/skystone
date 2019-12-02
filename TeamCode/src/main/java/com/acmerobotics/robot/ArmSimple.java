@@ -11,9 +11,9 @@ public class ArmSimple {
     private Servo handServo;
     private Servo rotationServo;
 
-    private double handOpenPos = 0.78;
-    private double handClosePos = 0.33;
-    private double rotateCenter = 0.53;
+    private double handOpenPos = 0.98;
+    private double handClosePos = 0.45;
+    private double rotateCenter = 0.45;
 
     public double stablePower = 0.4;
 
